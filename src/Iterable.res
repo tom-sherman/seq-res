@@ -1,0 +1,1 @@
+let fromSeq = Iterator.fromSeq
