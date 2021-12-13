@@ -1,7 +1,7 @@
 # seq-res
 > **⚠️ Very experimental, proceed with caution**
 
-A lazy sequence library for ReScript with built in support for iterators and the iterable protocol.
+A lazy sequence library for ReScript with built in support for iterators and the iterable protocol for better JS interop.
 
 ## Examples
 
@@ -26,3 +26,4 @@ let iterator = Iterator.fromSeq(seq)
 - [ ] Iterable -> Seq conversion
 - [ ] Iterator -> Seq conversion
 - [ ] Gentype support
+- [ ] Find a better name and publish to npm
